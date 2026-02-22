@@ -60,7 +60,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 group-title="香港" tvg-name="ViuTVsix" tvg-id="410273" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/ViuTVsix.png",ViuTVsix
 http://php.jdshipin.com/smt.php?id=viusix_twn
 
-#EXTINF:-1 group-title="Cartoon" tvg-name="Cartoon Netwrk" tvg-id="486843" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/Cartoon Network.png",Cartoon Netwrk
+#EXTINF:-1 group-title="Cartoon" tvg-name="Cartoon Netwrk" tvg-id="3403" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/Cartoon Network.png",Cartoon Netwrk
 https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
 #EXTINF:-1 group-title="電影" tvg-name="美亞電影台" tvg-id="368348" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/matv美亞.png",美亞電影台
@@ -110,4 +110,5 @@ rtmp://f13h.mine.nu:1935/sat/tv331
 
 #EXTINF:-1 tvg-name="momo綜合台" tvg-id="456578" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/momo.png" group-title="綜合",momo綜合台
 rtmp://f13h.mine.nu/sat/tv761
+
 
