@@ -12,9 +12,6 @@ http://php.jdshipin.com/smt.php?id=Aodhd
 #EXTINF:-1 group-title="马来西亚" tvg-name="Astro AEC HD" tvg-id="2226" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/Astro AEC.png",Astro AEC HD
 http://php.jdshipin.com/smt.php?id=AEC
 
-#EXTINF:-1 group-title="马来西亚" tvg-name="Astro AEC HD" tvg-id="2226" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/Astro AEC.png",Astro AEC HD
-http://php.jdshipin.com/smt.php?id=Aec
-
 #EXTINF:-1 group-title="马来西亚" tvg-name="iQIYI HD" tvg-id="3290" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/IQIYI.png",iQIYI HD
 http://php.jdshipin.com/smt.php?id=Qiyi
 
@@ -113,3 +110,4 @@ rtmp://f13h.mine.nu:1935/sat/tv331
 
 #EXTINF:-1 tvg-name="momo綜合台" tvg-id="456578" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/momo.png" group-title="綜合",momo綜合台
 rtmp://f13h.mine.nu/sat/tv761
+
