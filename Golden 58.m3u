@@ -1,0 +1,115 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/SGolden58/epg/main/epg.xml" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://sgolden58.github.io/radio/epg.xml" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?lang=zh-hant&timezone=Asia/Kuala_Lumpur&channel_id=368325"
+
+
+#EXTINF:-1 group-title="马来西亚" tvg-name="8TV" tvg-id="1122" tvg-chno="108" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/8TV.png",8TV
+https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+
+#EXTINF:-1 group-title="马来西亚" tvg-name="Astro AOD 311" tvg-id="2124" tvg-chno="311" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/Astro AOD.png",Astro AOD 311
+http://php.jdshipin.com/smt.php?id=Aodhd
+
+#EXTINF:-1 group-title="马来西亚" tvg-name="Astro AEC HD" tvg-id="2226" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/Astro AEC.png",Astro AEC HD
+http://php.jdshipin.com/smt.php?id=AEC
+
+#EXTINF:-1 group-title="马来西亚" tvg-name="Astro AEC HD" tvg-id="2226" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/Astro AEC.png",Astro AEC HD
+http://php.jdshipin.com/smt.php?id=Aec
+
+#EXTINF:-1 group-title="马来西亚" tvg-name="iQIYI HD" tvg-id="3290" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/IQIYI.png",iQIYI HD
+http://php.jdshipin.com/smt.php?id=Qiyi
+
+#EXTINF:-1 group-title="马来西亚" tvg-name="Astro QJ" tvg-id="399519" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/Astro QJ.png",Astro QJ
+http://php.jdshipin.com/smt.php?id=Quanjia
+
+#EXTINF:-1 group-title="马来西亚" tvg-name="Astro Hua Hee Dai HD" tvg-id="1951" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/Astro 欢喜台.png",Astro Hua Hee Dai HD
+http://php.jdshipin.com/smt.php?id=Huahee
+
+#EXTINF:-1 group-title="香港" tvg-name="HOY TV 77" tvg-id="HOY TV" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/HOYTV.svg.png",HOY TV 77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+
+#EXTINF:-1 group-title="香港" tvg-name="TVB-Plus" tvg-id="368361" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/TVBPlus.png",TVB Plus
+http://php.jdshipin.com/smt.php?id=j2_twn
+
+#EXTINF:-1 group-title="香港" tvg-name="TVB 华丽台" tvg-id="369805" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/TYBjade.png",TVB 华丽台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+
+#EXTINF:-1 group-title="香港" tvg-name="TVB Jade" tvg-id="369701" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/TYBjade.png",TVB Jade
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+
+#EXTINF:-1 group-title="香港" tvg-name="翡翠台" tvg-id="368366" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/TYBjade.png",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+
+#EXTINF:-1 group-title="香港" tvg-name="翡翠台" tvg-id="368366" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/TYBjade.png",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+
+#EXTINF:-1 group-title="香港" tvg-name="明珠台" tvg-id="368369" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/TVBpearl.png",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+
+#EXTINF:-1 group-title="香港" tvg-name="娛樂新聞台" tvg-id="368323" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/TVBentertainment.png",TVB娛樂新聞台
+http://php.jdshipin.com/smt.php?id=Tvbentertainment
+
+#EXTINF:-1 group-title="香港" tvg-name="TVB 星河" tvg-id="3493" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/TVBxinhe.png",TVB 星河
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+
+#EXTINF:-1 group-title="香港" tvg-name="TVB 星河" tvg-id="369796" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/TVBxinhe.png",TVB 星河
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+
+#EXTINF:-1 group-title="香港" tvg-name="千禧經典台" tvg-id="368325" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/千禧經典台.png",千禧經典台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+
+#EXTINF:-1 group-title="香港" tvg-name="ViuTV" tvg-id="410274" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/ViuTV.png",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+
+#EXTINF:-1 group-title="香港" tvg-name="ViuTVsix" tvg-id="410273" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/ViuTVsix.png",ViuTVsix
+http://php.jdshipin.com/smt.php?id=viusix_twn
+
+#EXTINF:-1 group-title="Cartoon" tvg-name="Cartoon Netwrk" tvg-id="486843" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/Cartoon Network.png",Cartoon Netwrk
+https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
+
+#EXTINF:-1 group-title="電影" tvg-name="美亞電影台" tvg-id="368348" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/matv美亞.png",美亞電影台
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+
+#EXTINF:-1  group-title="香港" tvg-name="翡翠综合台" tvg-id=" " tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/TVB J1.png",翡翠综合台 (北美)
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+
+#EXTINF:-1  tvg-id="翡翠综合台" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/TVBJ1.jpg",翡翠综合台 (北美)
+http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
+
+#EXTINF:-1  tvg-id="翡翠剧集台" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/TVBDrama.jpg",翡翠剧集台 (北美)
+http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
+
+#EXTINF:-1  tvg-id="明珠剧集台" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/TVBPearlDrama.jpg",明珠剧集台 (北美)
+http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
+
+#EXTINF:-1 group-title="Radio" ch-number="988" tvg-id="988" tvg-name="988" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/988.png",988
+https://playerservices.streamtheworld.com/api/livestream-redirect/988_FM.mp3
+
+#EXTINF:-1 group-title="Radio" ch-number="724" tvg-id="Eight FM" tvg-name="724" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/eight.jpg",Eight FM
+https://stream.rcs.revma.com/qp0xrd9mtd3vv
+
+#EXTINF:-1 group-title="Radio" ch-number="733" tvg-id="MY FM" tvg-name="MY FM" tvg-logo="https://media2.fishtank.my/app_themes/my/assets/images/logo-my.svg",MY FM
+https://stream.rcs.revma.com/hc3unrtbv4uvv/13_1i5lwgljhccl102/playlist.m3u8
+
+#EXTINF:-1 group-title="電影" tvg-name="Celestial Movies" tvg-id="1298" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/CelestialMovies.png",天映频道
+http://php.jdshipin.com:8880/smt.php?id=Celestial
+
+#EXTINF:-1 tvg-name="緯來育樂台" tvg-id="456572" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/緯來育樂台HD.png" group-title="綜合",緯來育樂台
+rtmp://f13h.mine.nu/sat/tv701
+
+#EXTINF:-1 tvg-name="民視" tvg-id="370139" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/民視.png" group-title="綜合",民視
+rtmp://f13h.mine.nu/sat/tv051
+
+#EXTINF:-1 tvg-name="台視HD" tvg-id="457211" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/台視HD.png" group-title="綜合",台視HD
+rtmp://f13h.mine.nu:1935/sat/tv071
+
+#EXTINF:-1 tvg-name="中視HD" tvg-id="457213" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/中視.png" group-title="綜合",中視HD
+rtmp://f13h.mine.nu:1935/sat/tv091
+
+#EXTINF:-1 tvg-name="華視HD" tvg-id="457214" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/華視HD.png" group-title="綜合",華視HD
+rtmp://f13h.mine.nu:1935/sat/tv111
+
+#EXTINF:-1 tvg-name="東森超視" tvg-id="456533" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/TBC超視.png" group-title="綜合",東森超視
+rtmp://f13h.mine.nu:1935/sat/tv331
+
+#EXTINF:-1 tvg-name="momo綜合台" tvg-id="456578" tvg-country="台灣" tvg-language="國語" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/momo.png" group-title="綜合",momo綜合台
+rtmp://f13h.mine.nu/sat/tv761
