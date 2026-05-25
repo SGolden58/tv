@@ -6,8 +6,8 @@
 #EXTINF:-1 group-title="马来西亚" tvg-name="8TV" tvg-id="1122" tvg-chno="108" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/8TV.png",8TV
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 
-#EXTINF:-1 group-title="马来西亚" tvg-name="Astro AOD 311" tvg-id="2124" tvg-chno="311" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/Astro AOD.png",Astro AOD 311
-http://php.jdshipin.com/smt.php?id=Aodhd
+#EXTINF:-1 group-title="马来西亚" group-title="香港" tvg-name="Astro AOD 311" tvg-id="2124" tvg-chno="311" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/Astro AOD.png",Astro AOD 311
+http://php.jdshipin.com/PLTV/iptv.php?id=aod
 
 #EXTINF:-1 group-title="马来西亚" tvg-name="Astro AEC HD" tvg-id="2226" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/Astro AEC.png",Astro AEC HD
 http://php.jdshipin.com/smt.php?id=AEC
