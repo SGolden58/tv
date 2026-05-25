@@ -24,8 +24,8 @@ http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 group-title="香港" tvg-name="HOY TV 77" tvg-id="HOY TV" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/HOYTV.svg.png",HOY TV 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 
-#EXTINF:-1 group-title="香港" tvg-name="TVB-Plus" tvg-id="368361" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/TVBPlus.png",TVB Plus
-http://php.jdshipin.com/smt.php?id=j2_twn
+#EXTINF:-1 group-title="香港" tvg-name="Astro AOD 311" tvg-id="2124" tvg-chno="311" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/Astro AOD.png",Astro AOD 311
+http://php.jdshipin.com/PLTV/iptv.php?id=aod
 
 #EXTINF:-1 group-title="香港" tvg-name="TVB 华丽台" tvg-id="369805" tvg-logo="https://raw.githubusercontent.com/SGolden58/svg/main/Logo/TYBjade.png",TVB 华丽台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
